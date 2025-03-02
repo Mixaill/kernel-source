@@ -1,4 +1,4 @@
-From 06d8b1eeb23bc9b325cd62916ee660f7df599ae1 Mon Sep 17 00:00:00 2001
+From 5e2f5c16ee63cede6809918ce81140435f95cb02 Mon Sep 17 00:00:00 2001
 From: Mikhail Paulyshka <me@mixaill.net>
 Date: Thu, 27 Feb 2025 10:41:10 +0300
 Subject: [PATCH 2/2] hwmon: (nct6683) Add customer ID for AMD BC-250
